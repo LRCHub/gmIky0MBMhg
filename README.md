@@ -1,38 +1,26 @@
-# Nightcord at 25:00 – D/N/A
+# King Gizzard & The Lizard Wizard feat. Mild High Club – D-Day
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-明日は 何やって どこで 何食べる
-どれだけ 先まで 手帳に書いてるの
-キミといるのは好きだけど
-もうちょい未来を感じたい
-ラララ 何ひとつ決めずに
-ラララ セキララに DIVE
-ラララ キミと手をつないで
-ラララ アケスケに DIVE
-こんなんじゃいやだもん
-理想(ゴール)をめざすのは もちろんステキです
-ユメなど見つからない... それもありっちゃあり
-できることできないことが
-そんなあっさりわかるの?
-ラララ 覚悟だけ決めたら
-ラララ セキララに DIVE
-ラララ 日付なんか忘れて
-ラララ アケスケに DIVE
-ラララ 下手な予言はやめて
-ラララ 手を広げ DIVE
-ラララ 消えゆくきらめきが
-ラララ 香ります DIVE
-何のために生きるのなんて
-バカなこと聞かないでプリーズ
-人生自体 思いがけないこと
-ラララ 何ひとつ決めずに
-ラララ セキララに DIVE
-ラララ キミと手をつないで
-ラララ アケスケに DIVE
-ラララ ビビるほどまっ白い
-ラララ 未来へと DIVE
-こんなんじゃいやだもん
-迷うことなかれ
+```lrc
+[00:00.24] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[00:05.32] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[00:10.27] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[00:15.11] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[00:47.61] 
+[00:20.15] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[00:25.08] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[00:30.13] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[00:35.09] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[01:07.59] 
+[00:39.95] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[00:44.86] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[00:50.01] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[00:54.98] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[01:27.48] 
+[00:59.57] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[01:04.49] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[01:09.71] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[01:14.40] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+[01:19.62] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
 ```
