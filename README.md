@@ -1,26 +1,39 @@
-# King Gizzard & The Lizard Wizard feat. Mild High Club – D-Day
+# 25時、ナイトコードで。 – D/N/A（feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン）
 
-> **歌詞登録ステータス：同期歌詞あり**
+> **歌詞登録ステータス：プレーン歌詞のみ**
 
-```lrc
-[00:00.24] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[00:05.32] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[00:10.27] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[00:15.11] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[00:47.61] 
-[00:20.15] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[00:25.08] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[00:30.13] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[00:35.09] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[01:07.59] 
-[00:39.95] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[00:44.86] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[00:50.01] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[00:54.98] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[01:27.48] 
-[00:59.57] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[01:04.49] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[01:09.71] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[01:14.40] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
-[01:19.62] Eleven, ten, nine, eight, seven, six, five, four, three, two, one
+```
+小石を高く高く積み上げては
+吹きさらす心は夕暮れ
+いつか見つかると まだ見つかると
+白く 甘く 淡く
+影踏み遊びばかりしてきました
+贖い足がかり探して
+いつか見つけると まだ見つけると
+永く 脆く 遠く
+鏡越し貴方と
+瞳の奥の私と
+誰かの 中の 貴方は
+欠片のままに夢を見る
+だってD/N/Aじゃ騙れない
+この心は私の中紅く
+紅く
+眠れない
+迷子の無いものねだりじゃない
+この細胞は愛憎刻まれてる
+まだ見つけるの まだ見つけるの
+言えなかった音は?
+誰かの 中の 貴方は
+繋がれたまま夢を見る
+だってD/N/Aじゃ語れない
+この痛みも私の中紅く
+紅く
+鏡の形と
+逆さまなD/N/A
+私の証と
+暖かなD/N/A
+鏡の形と
+逆さまなD/N/A
+私の証と
+暖かなD/N/A
 ```
