@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "D/N/A",
-  "base_artist": "Nightcord at 25:00",
-  "createdAt": "2025-12-01T08:07:41.849913Z",
+  "base_track": "D/N/A（feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音リン）",
+  "base_artist": "25時、ナイトコードで。",
+  "createdAt": "2025-12-23T05:29:18.305318Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -143,42 +143,10 @@
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "DIVE",
-      "artist": "B'z",
+      "title": "D/N/A (feat. 宵崎奏, 朝比奈まふゆ, 東雲絵名, 暁山瑞希 & 鏡音リン)",
+      "artist": "25時、ナイトコードで。",
       "has_synced": false,
-      "path": "select/pl_01_DIVE_B'z.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "Deep River",
-      "artist": "B'z",
-      "has_synced": false,
-      "path": "select/pl_02_Deep_River_B'z.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "DISTANCE",
-      "artist": "B'z",
-      "has_synced": false,
-      "path": "select/pl_03_DISTANCE_B'z.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "Dear My Teacher",
-      "artist": "B'z",
-      "has_synced": false,
-      "path": "select/pl_04_Dear_My_Teacher_B'z.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "Dearest Love",
-      "artist": "B'z",
-      "has_synced": false,
-      "path": "select/pl_05_Dearest_Love_B'z.txt"
+      "path": "select/pl_01_D_N_A_(feat._宵崎奏,_朝比奈まふゆ,_東雲絵名,_暁山瑞希_&_鏡音リン)_25時、ナイトコードで。.txt"
     }
   ]
 }
